@@ -1,5 +1,4 @@
-# CAHİT GÜLEN
-# cg
+
 <!DOCTYPE html>
 <html lang="tr" >
   <head>
